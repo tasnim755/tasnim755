@@ -1,5 +1,5 @@
 # Tasnim Islam - Student
-I am Tasnim from Bangladesh and I am an undergraduate student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering.<br>
+I am Tasnim from Bangladesh and I am an undergraduate student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Science.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tasnim-islam-107a99288) 
